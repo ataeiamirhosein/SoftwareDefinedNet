@@ -9,6 +9,6 @@ The switching and routing project code repository is made available for the stud
 Download the last version of [Virtualbox](https://www.virtualbox.org/) together with the [extension pack](https://download.virtualbox.org/virtualbox/6.0.14/Oracle_VM_VirtualBox_Extension_Pack-6.0.14.vbox-extpack), and [Bitvise client SSH](https://www.bitvise.com/).
 
 ## Virtual machines
-Download the following virtual machines to develop your project 
+Download the following virtual machines to develop your project:  
 
 SDN projects: [SAR_project_x64.ova](https://www.dropbox.com/s/s6zevkfhi7oohc1/SAR_project_x64.ova?dl=0) for x64 based operative systems and [SAR_project_x86.ova](https://www.dropbox.com/s/yiqam5olaphm0w9/SAR_project_x86.ova?dl=0 ) for x86 based operative systems. 
