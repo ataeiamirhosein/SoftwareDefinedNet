@@ -2,7 +2,7 @@
 
 Software-defined networking (SDN) technology is an approach to network management that enables dynamic, programmatically efficient network configuration in order to improve network performance and monitoring making it more like cloud computing than traditional network management. SDN is meant to address the fact that the static architecture of traditional networks is decentralized and complex while current networks require more flexibility and easy troubleshooting. SDN attempts to centralize network intelligence in one network component by disassociating the forwarding process of network packets (data plane) from the routing process (control plane).  
 
-!(sdn)[https://github.com/ataeiamirhosein/SoftwareDefinedNet/blob/master/sdn-architecture-img.jpg]
+![sdn](https://github.com/ataeiamirhosein/SoftwareDefinedNet/blob/master/sdn-architecture-img.jpg)
 
 # Documentation of the Switching and Routing project
 The switching and routing project code repository is made available for the students of switching and routing class held by prof. Guido Maier at Politecnico di Milano.
